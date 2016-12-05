@@ -1,1 +1,2 @@
 hello GIT!
+Hello all!
