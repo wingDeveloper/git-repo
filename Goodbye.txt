@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 print("Goodbye")
+=======
+print("Goodbye")
+print(Goodbye finish)
+>>>>>>> master
